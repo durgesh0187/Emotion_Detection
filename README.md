@@ -31,7 +31,7 @@ Built using:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/emotion-detection-app.git
+git clone https://github.com/durgesh0187/emotion-detection-app.git
 cd emotion-detection-app
 
 # 2. Create virtual environment (optional but recommended)
